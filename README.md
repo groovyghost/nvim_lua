@@ -1,2 +1,2 @@
-# nvim_lua
-Neovim KISS configuration with Lua
+# NVIM-LUA
+Work in Progress
