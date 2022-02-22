@@ -16,3 +16,4 @@ Website: https://github.com/groovyghost/nvim_lua
 -- Import Lua modules
 -----------------------------------------------------------
 require('settings')
+require('keymaps')
